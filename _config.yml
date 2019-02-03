@@ -3,26 +3,17 @@ subtitle:
 author: Anuradha
 avatar_url: /assets/img/avatar.jpg  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Hellllooo there!!! My name is Anuradha. I am a Human Resource professional. I am crazy about reading and blogging. I am a big fashion and beauty freak. I keep trying anything and everything which is new to the market. I post believable and sensible reviews to the viewers as I would have personally experienced and used those products. I try to keep my post as simple as possible so that the viewers can easily connect to the contents of the blog. Blogging is a great way to de-stress and that's how I catch up my me time. Keep reading and encouraging with your valuable comments!! Read on :-) Cheers!!!!!
-#repository: haacked/haackbar
-
-# contact
-contact:
-#  email: email  # Comment out this line if you don't want to expose your email.
-#  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
+  Hellllooo there!!! 
+  My name is Anuradha. I am a Human Resource professional. 
+  I am crazy about reading and blogging. I am a big fashion and beauty freak. 
+  I keep trying anything and everything which is new to the market. I post believable and sensible reviews to the viewers as 
+  I would have personally experienced and used those products. I try to keep my post as simple as possible so that the viewers 
+  can easily connect to the contents of the blog. Blogging is a great way to de-stress and that's how I catch up my me time. 
+  Keep reading and encouraging with your valuable comments!! Read on :smile: Cheers!!!!!
 
 # social links
 #twitter_username: 
-#github_username:  anuraidurg
 rss: rss
-
-# 
-# Subscribe Feed
-# 
-# By default, your site generates a subscription feed (RSS/Atom) at /feed.xml
-# Uncomment the next two lines to change the path.
-# feed:
-#   path: /atom.xml
 
 # Homepage
 show_excerpts: true  # set to true to show excerpts on the homepage, otherwise full posts are shown
@@ -43,7 +34,7 @@ haacked-theme:
   date_format: "%-d %b %Y"
 
 # Google Analytics
-google_analytics: UA-4808770-2
+#google_analytics: UA-4808770-2
 
 #
 # Jekyll Settings
@@ -93,3 +84,4 @@ plugins:
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jemoji
