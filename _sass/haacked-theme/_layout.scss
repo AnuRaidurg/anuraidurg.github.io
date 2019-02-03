@@ -5,7 +5,6 @@
   border-top: 1px solid $grey-color-light;
   margin-left: $sidebar-width;
   padding: $spacing-unit 0;
-  background-color: $my-dark-colour;
 
   @include media-query($on-mobile) {
     margin-left: auto;
@@ -23,8 +22,8 @@
   @extend %clearfix;
   @include relative-font-size(.9375);
   @include relative-font-weight(.875);
+  color: $grey-color-dark;
   margin-left: -$spacing-unit / 2;
-  color: $my-text-colour
 }
 
 .footer-col {
@@ -109,6 +108,7 @@
 
   h3 {
     @include relative-font-size(1.525);
+    color: lighten($text-color, 20%);
     margin-bottom: $spacing-unit / 4;
   }
 
@@ -116,6 +116,7 @@
     @include relative-font-size(1.25);
   }
 }
+
 
 /*
    Page taxonomy (credit : https://github.com/mmistakes)

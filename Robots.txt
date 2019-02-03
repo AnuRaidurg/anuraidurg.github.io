@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.simplyvinay.com/sitemap.xml 
+Sitemap: http://www.anuraidurg.github.io/sitemap.xml 

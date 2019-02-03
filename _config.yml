@@ -1,10 +1,9 @@
-title: dotNet Musings
-subtitle: ..because life musings are absurd
-author: Vinay
+title: Anuradha Raidurg
+subtitle: 
+author: Anuradha
 avatar_url: /assets/img/avatar.jpg  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-  Contemplating life and the importance of .net web development in it, with some Vuejs, Reactjs and Graphql
-  to add to the absurdity of it all.
+  Hellllooo there!!! My name is Anuradha. I am a Human Resource professional. I am crazy about reading and blogging. I am a big fashion and beauty freak. I keep trying anything and everything which is new to the market. I post believable and sensible reviews to the viewers as I would have personally experienced and used those products. I try to keep my post as simple as possible so that the viewers can easily connect to the contents of the blog. Blogging is a great way to de-stress and that's how I catch up my me time. Keep reading and encouraging with your valuable comments!! Read on :-) Cheers!!!!!
 #repository: haacked/haackbar
 
 # contact
@@ -13,8 +12,8 @@ contact:
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links
-twitter_username: simplyvinay
-github_username:  simplyvinay
+#twitter_username: 
+#github_username:  anuraidurg
 rss: rss
 
 # 
@@ -34,7 +33,7 @@ excerpt_separator: <!--more-->
 comments:
   enabled: true
   show_count: true
-  disqus_shortname: simplyvinay
+  disqus_shortname: anuraidurg
 
 emptyArray: [] # Leave this here.
 
