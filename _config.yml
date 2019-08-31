@@ -34,7 +34,7 @@ haacked-theme:
   date_format: "%-d %b %Y"
 
 # Google Analytics
-#google_analytics: UA-4808770-2
+google_analytics: UA-78535445-2
 
 #
 # Jekyll Settings
