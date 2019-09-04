@@ -26,9 +26,9 @@ author: Anuradha Raidurg
 comments: true
 ---
 
-**Shine Bright Like A Diamond** :smile:
+Shine Bright Like A Diamond :smile:
 
-Oh!! Yes you will if you start applying Dr. Reddy’s  ReVibra C10, which is the purest topical vitamin C. ReVibra comes in unique packaging of circular dating disc of 28 vegicaps. This helps maintain purity and stability till the last dose. Open the flap of disc, take out a vegicap. Store the disc in a dry place and do not refrigerate the disc or vegicap. Pluck the head of the vegicap to break. Squeeze it in the palm. Apply gently all over the face in circular motions and massage. ReVibra brings vibrancy to the skin and helps maintain youthful look. Unlike any other available vitamin C brands, ReVibra comes in a single dose vegicap that keeps the vitamin stable by protecting from air and light. The vitamin is kept in its purest form making it more effective. Use ReVibra C10 for being vibrant. No preservatives, no colorants and no perfume. Just pure and bioactive vitamin C. Helps in hyperpigmentation and post-inflammatory hyperpigmentation. Improves procedural outcomes.
+Oh!! Yes you will if you start applying [Dr. Reddy’s  ReVibra C10](http://revibra.in/), which is the purest topical vitamin C. ReVibra comes in unique packaging of circular dating disc of 28 vegicaps. This helps maintain purity and stability till the last dose. Open the flap of disc, take out a vegicap. Store the disc in a dry place and do not refrigerate the disc or vegicap. Pluck the head of the vegicap to break. Squeeze it in the palm. Apply gently all over the face in circular motions and massage. ReVibra brings vibrancy to the skin and helps maintain youthful look. Unlike any other available vitamin C brands, ReVibra comes in a single dose vegicap that keeps the vitamin stable by protecting from air and light. The vitamin is kept in its purest form making it more effective. Use ReVibra C10 for being vibrant. No preservatives, no colorants and no perfume. Just pure and bioactive vitamin C. Helps in hyperpigmentation and post-inflammatory hyperpigmentation. Improves procedural outcomes.
 <!--more-->
 <img src="/assets/Revibra C10.JPG" />
 
